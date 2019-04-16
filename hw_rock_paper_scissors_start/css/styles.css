@@ -13,7 +13,6 @@
   padding: 15px 25px;
   font-size: 24px;
   text-align: center;
-  text-decoration: none;
   outline: none;
   color: #fff;
   background-color: #3399ff;
@@ -28,3 +27,5 @@
   box-shadow: 0 1px #52667a;
   transform: translateY(4px);
 }
+/* W3 Schools helped with some of the CSS styling for the buttons */
+/* https://www.w3schools.com/css/css3_buttons.asp */
