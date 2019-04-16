@@ -1,0 +1,30 @@
+.title{
+  font-family: sans-serif;
+  color: #2d4053;
+}
+
+.text{
+  font-family: sans-serif;
+  color: #204060;
+}
+
+.button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #3399ff;
+  border-radius: 15px;
+  box-shadow: 0 5px #8599ad;
+}
+
+.button:hover {background-color: #0080ff}
+
+.button:active {
+  background-color: #0066cc;
+  box-shadow: 0 1px #52667a;
+  transform: translateY(4px);
+}
